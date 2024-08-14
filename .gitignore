@@ -1,0 +1,28 @@
+# .NET Core
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.user
+*.lock.json
+*.csproj.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+.vscode/*
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# MacOS
+.DS_Store
